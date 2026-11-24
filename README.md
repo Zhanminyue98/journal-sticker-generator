@@ -1,8 +1,8 @@
 # Journal Sticker Generator
 
-用 ImageGen 生成成套水彩手账贴纸的 Codex Skill。通过风格参考图、主题规划和质量检查，让新增素材延续同一套画风。
+[简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
-A reusable Codex skill for generating cohesive watercolor journal stickers with ImageGen, style references, and quality checks.
+用 ImageGen 生成成套水彩手账贴纸的 Codex Skill。通过风格参考图、主题规划和质量检查，让新增素材延续同一套画风。
 
 ![水彩贴纸效果展示](docs/showcase.png)
 
@@ -72,6 +72,8 @@ skills/
 - [参考图](references/style/)
 - [分享使用说明](分享使用说明.md)
 
-## Scope
+## 适用范围
 
-This is a prompt-and-workflow skill, not an image model or a sticker asset pack. It targets standalone transparent PNG stickers. Seamless tape textures, UI screenshots, and vector icon systems are outside its default scope. The included images were generated with ImageGen.
+这是一个提示词与工作流程 Skill，面向独立透明 PNG 贴纸，不是图像模型或完整贴纸素材包。无缝胶带纹理、UI 截图和矢量图标系统不在默认范围内。附带图片由 ImageGen 生成。
+
+本项目提供四种语言的 README。Skill 工作规则和说明文档目前以中文为主，生成提示词为英文。
