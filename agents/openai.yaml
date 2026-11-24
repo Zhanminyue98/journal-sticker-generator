@@ -1,0 +1,4 @@
+interface:
+  display_name: "手账贴纸生成器"
+  short_description: "生成同画风的自然、美食、纸片与可爱动物透明贴纸，支持成套扩充和质量检查"
+  default_prompt: "使用 $journal-sticker-generator 生成猫猫狗狗和动物园两个可爱水彩贴纸系列，每组 12 张独立透明 PNG。"

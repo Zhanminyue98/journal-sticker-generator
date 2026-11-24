@@ -1,0 +1,691 @@
+{
+  "description": "本案例实际使用的 99 条提示词。仅保留可分享字段；reference 相对本文件。原有三系列各25张，动物两系列各12张，数量为案例而非默认规则。",
+  "tool": "ImageGen",
+  "transparent_background": true,
+  "assets": [
+    {
+      "id": "nature-fern",
+      "name": "蕨叶",
+      "prompt": "Use case: stylized-concept. Asset type: individual premium digital journal sticker. Subject: one delicate curved fern frond, sage green botanical watercolor. Soft hand-painted gouache and watercolor on textured paper, refined Japanese stationery aesthetic, gentle muted natural colors. ONE cohesive sticker centered and filling about 85% of frame with a narrow ivory die-cut border. True transparent background outside sticker, no background paper or scene, no cast shadow, no text, no watermark, no extra isolated objects. High quality raster artwork, clean silhouette.",
+      "series": "自然"
+    },
+    {
+      "id": "nature-daisy",
+      "name": "雏菊",
+      "prompt": "Use case: stylized-concept. Asset type: individual premium digital journal sticker. Subject: one small bouquet of three white daisies with ochre centers and sage stems. Soft hand-painted gouache and watercolor on textured paper, refined Japanese stationery aesthetic, gentle muted natural colors. ONE cohesive sticker centered and filling about 85% of frame with a narrow ivory die-cut border. True transparent background outside sticker, no background paper or scene, no cast shadow, no text, no watermark, no extra isolated objects. High quality raster artwork, clean silhouette.",
+      "series": "自然"
+    },
+    {
+      "id": "nature-mushrooms",
+      "name": "林间蘑菇",
+      "prompt": "Use case: stylized-concept. Asset type: individual premium digital journal sticker. Subject: a connected pair of little woodland mushrooms, warm terracotta caps, cream stems. Soft hand-painted gouache and watercolor on textured paper, refined Japanese stationery aesthetic, gentle muted natural colors. ONE cohesive sticker centered and filling about 85% of frame with a narrow ivory die-cut border. True transparent background outside sticker, no background paper or scene, no cast shadow, no text, no watermark, no extra isolated objects. High quality raster artwork, clean silhouette.",
+      "series": "自然"
+    },
+    {
+      "id": "food-croissant",
+      "name": "可颂",
+      "prompt": "Use case: stylized-concept. Asset type: individual premium digital journal sticker. Subject: one golden buttery croissant with delicate flaky layers. Soft hand-painted gouache and watercolor on textured paper, refined Japanese stationery aesthetic, gentle muted natural colors. ONE cohesive sticker centered and filling about 85% of frame with a narrow ivory die-cut border. True transparent background outside sticker, no background paper or scene, no cast shadow, no text, no watermark, no extra isolated objects. High quality raster artwork, clean silhouette.",
+      "series": "美食"
+    },
+    {
+      "id": "food-strawberry-cake",
+      "name": "草莓蛋糕",
+      "prompt": "Use case: stylized-concept. Asset type: individual premium digital journal sticker. Subject: one slice of strawberry shortcake, cream layers, pale pink filling, one strawberry on top. Soft hand-painted gouache and watercolor on textured paper, refined Japanese stationery aesthetic, gentle muted natural colors. ONE cohesive sticker centered and filling about 85% of frame with a narrow ivory die-cut border. True transparent background outside sticker, no background paper or scene, no cast shadow, no text, no watermark, no extra isolated objects. High quality raster artwork, clean silhouette.",
+      "series": "美食"
+    },
+    {
+      "id": "food-matcha",
+      "name": "抹茶拿铁",
+      "prompt": "Use case: stylized-concept. Asset type: individual premium digital journal sticker. Subject: one clear glass of iced matcha latte, green tea and cream layers, no lettering. Soft hand-painted gouache and watercolor on textured paper, refined Japanese stationery aesthetic, gentle muted natural colors. ONE cohesive sticker centered and filling about 85% of frame with a narrow ivory die-cut border. True transparent background outside sticker, no background paper or scene, no cast shadow, no text, no watermark, no extra isolated objects. High quality raster artwork, clean silhouette.",
+      "series": "美食"
+    },
+    {
+      "id": "basic-dots",
+      "name": "波点纸片",
+      "prompt": "Use case: stylized-concept. Asset type: individual premium digital journal sticker. Subject: one torn rectangular ivory paper scrap printed with irregular muted terracotta polka dots, face-on flat, handmade print texture. Soft hand-painted gouache and watercolor on textured paper, refined Japanese stationery aesthetic, gentle muted natural colors. ONE cohesive sticker centered and filling about 85% of frame with a narrow ivory die-cut border. True transparent background outside sticker, no background paper or scene, no cast shadow, no text, no watermark, no extra isolated objects. High quality raster artwork, clean silhouette.",
+      "series": "基础元素"
+    },
+    {
+      "id": "basic-gingham",
+      "name": "格纹纸片",
+      "prompt": "Use case: stylized-concept. Asset type: individual premium digital journal sticker. Subject: one torn rectangular pale sage gingham paper scrap, face-on flat, woven print texture. Soft hand-painted gouache and watercolor on textured paper, refined Japanese stationery aesthetic, gentle muted natural colors. ONE cohesive sticker centered and filling about 85% of frame with a narrow ivory die-cut border. True transparent background outside sticker, no background paper or scene, no cast shadow, no text, no watermark, no extra isolated objects. High quality raster artwork, clean silhouette.",
+      "series": "基础元素"
+    },
+    {
+      "id": "basic-label",
+      "name": "拼贴标签",
+      "prompt": "Use case: stylized-concept. Asset type: individual premium digital journal sticker. Subject: one blank horizontal cream paper label with scalloped terracotta edge, subtle paper grain, empty center for handwriting. Soft hand-painted gouache and watercolor on textured paper, refined Japanese stationery aesthetic, gentle muted natural colors. ONE cohesive sticker centered and filling about 85% of frame with a narrow ivory die-cut border. True transparent background outside sticker, no background paper or scene, no cast shadow, no text, no watermark, no extra isolated objects. High quality raster artwork, clean silhouette.",
+      "series": "基础元素"
+    },
+    {
+      "id": "nature-eucalyptus",
+      "name": "尤加利",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting a curved eucalyptus branch with rounded dusty sage leaves. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "自然",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "nature-lavender",
+      "name": "薰衣草",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting a small tied bunch of lavender, dusty violet blossoms. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "自然",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "nature-tulip",
+      "name": "郁金香",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting two pale apricot tulips with graceful green leaves. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "自然",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "nature-hydrangea",
+      "name": "绣球花",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one powder blue hydrangea flower head with two leaves. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "自然",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "nature-poppy",
+      "name": "虞美人",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one terracotta poppy blossom and a closed bud on slender stems. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "自然",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "nature-sunflower",
+      "name": "向日葵",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one small ochre sunflower with muted olive leaves. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "自然",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "nature-cosmos",
+      "name": "波斯菊",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting two blush pink cosmos flowers on fine stems. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "自然",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "nature-cherry-blossom",
+      "name": "樱花枝",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting a short branch of pale pink cherry blossoms. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "自然",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "nature-olive",
+      "name": "橄榄枝",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one olive branch with sage leaves and three green olives. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "自然",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "nature-oak",
+      "name": "橡树叶",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one oak twig with two russet leaves and an acorn. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "自然",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "nature-pinecone",
+      "name": "松果",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one brown pinecone with a short cluster of pine needles. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "自然",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "nature-clover",
+      "name": "四叶草",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one four-leaf clover with a curved stem. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "自然",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "nature-strawberry-plant",
+      "name": "野草莓",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting a wild strawberry plant sprig with a white flower and a red berry. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "自然",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "nature-blueberries",
+      "name": "蓝莓枝",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one botanical blueberry sprig, dusty blue berries and green leaves. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "自然",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "nature-lemon-branch",
+      "name": "柠檬枝",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one yellow lemon on a leafy branch with a white blossom. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "自然",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "nature-butterfly",
+      "name": "蝴蝶",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one delicate butterfly with cream and muted ochre patterned wings, open wings. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "自然",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "nature-dragonfly",
+      "name": "蜻蜓",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one slender sage blue dragonfly with translucent pale wings. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "自然",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "nature-robin",
+      "name": "知更鸟",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one tiny robin perched on a short twig, warm rust breast. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "自然",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "nature-snail",
+      "name": "小蜗牛",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one charming small garden snail with a warm brown spiral shell. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "自然",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "nature-seashell",
+      "name": "贝壳",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one scallop seashell in pale peach and ivory. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "自然",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "nature-mountains",
+      "name": "远山",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one compact silhouette of layered sage and misty blue mountain peaks, ivory base edge. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "自然",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "nature-moon-sprig",
+      "name": "月下枝叶",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one crescent moon nestled in a curved leafy sprig, muted ochre moon and sage foliage. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "自然",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "food-latte",
+      "name": "热拿铁",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one ivory ceramic cup and saucer of latte with simple leaf latte art. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "美食",
+      "reference": "style/food-strawberry-cake.png"
+    },
+    {
+      "id": "food-teapot",
+      "name": "午后茶壶",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one small cream ceramic teapot with a sage leaf decoration. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "美食",
+      "reference": "style/food-strawberry-cake.png"
+    },
+    {
+      "id": "food-tea",
+      "name": "红茶杯",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one transparent teacup and saucer holding amber tea with a lemon slice. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "美食",
+      "reference": "style/food-strawberry-cake.png"
+    },
+    {
+      "id": "food-toast",
+      "name": "蜂蜜吐司",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one thick toast slice with a pat of butter and a drizzle of honey. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "美食",
+      "reference": "style/food-strawberry-cake.png"
+    },
+    {
+      "id": "food-bagel",
+      "name": "贝果",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one golden sesame bagel sliced to show cream cheese. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "美食",
+      "reference": "style/food-strawberry-cake.png"
+    },
+    {
+      "id": "food-baguette",
+      "name": "法棍",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one short golden baguette in a half-open cream paper sleeve. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "美食",
+      "reference": "style/food-strawberry-cake.png"
+    },
+    {
+      "id": "food-cinnamon-roll",
+      "name": "肉桂卷",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one cinnamon roll with delicate ivory icing. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "美食",
+      "reference": "style/food-strawberry-cake.png"
+    },
+    {
+      "id": "food-pancakes",
+      "name": "松饼",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting a small stack of three pancakes with butter and maple syrup on a cream plate. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "美食",
+      "reference": "style/food-strawberry-cake.png"
+    },
+    {
+      "id": "food-waffle",
+      "name": "华夫饼",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one round waffle quarter with two blueberries and cream. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "美食",
+      "reference": "style/food-strawberry-cake.png"
+    },
+    {
+      "id": "food-donut",
+      "name": "草莓甜甜圈",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one ring doughnut with pale strawberry icing. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "美食",
+      "reference": "style/food-strawberry-cake.png"
+    },
+    {
+      "id": "food-macarons",
+      "name": "马卡龙",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting a small connected stack of three macarons in sage, cream and blush pink. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "美食",
+      "reference": "style/food-strawberry-cake.png"
+    },
+    {
+      "id": "food-madeleine",
+      "name": "玛德琳",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one golden shell-shaped madeleine cake. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "美食",
+      "reference": "style/food-strawberry-cake.png"
+    },
+    {
+      "id": "food-chocolate-cookie",
+      "name": "巧克力曲奇",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one rustic chocolate chip cookie. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "美食",
+      "reference": "style/food-strawberry-cake.png"
+    },
+    {
+      "id": "food-cherries",
+      "name": "樱桃",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting two deep red cherries connected by their stems with a leaf. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "美食",
+      "reference": "style/food-strawberry-cake.png"
+    },
+    {
+      "id": "food-peach",
+      "name": "蜜桃",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one blush peach with a leaf beside one connected peach slice. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "美食",
+      "reference": "style/food-strawberry-cake.png"
+    },
+    {
+      "id": "food-pear",
+      "name": "香梨",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one golden green pear with a leaf. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "美食",
+      "reference": "style/food-strawberry-cake.png"
+    },
+    {
+      "id": "food-orange",
+      "name": "橘子",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one small orange with one peeled segment nestled beside it. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "美食",
+      "reference": "style/food-strawberry-cake.png"
+    },
+    {
+      "id": "food-icecream",
+      "name": "冰淇淋",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one waffle cone with a single scoop of pale strawberry ice cream. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "美食",
+      "reference": "style/food-strawberry-cake.png"
+    },
+    {
+      "id": "food-pudding",
+      "name": "焦糖布丁",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one caramel custard pudding on a small ivory plate. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "美食",
+      "reference": "style/food-strawberry-cake.png"
+    },
+    {
+      "id": "food-onigiri",
+      "name": "饭团",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one triangular rice ball with a dark seaweed wrap. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "美食",
+      "reference": "style/food-strawberry-cake.png"
+    },
+    {
+      "id": "food-sushi",
+      "name": "寿司",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting a connected pair of salmon nigiri sushi pieces. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "美食",
+      "reference": "style/food-strawberry-cake.png"
+    },
+    {
+      "id": "food-sandwich",
+      "name": "三明治",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one triangular sandwich with lettuce, tomato and egg layers. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "美食",
+      "reference": "style/food-strawberry-cake.png"
+    },
+    {
+      "id": "basic-sage-dots",
+      "name": "鼠尾草波点",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one torn rectangular ivory paper scrap with small sage green polka dots. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "基础元素",
+      "reference": "style/basic-gingham.png"
+    },
+    {
+      "id": "basic-blush-dots",
+      "name": "粉色波点",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one oval blush paper scrap with irregular cream polka dots. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "基础元素",
+      "reference": "style/basic-gingham.png"
+    },
+    {
+      "id": "basic-ochre-dots",
+      "name": "芥末黄波点",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one round ivory paper seal with ochre polka dots. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "基础元素",
+      "reference": "style/basic-gingham.png"
+    },
+    {
+      "id": "basic-blue-grid",
+      "name": "蓝色方格",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one torn square ivory paper scrap with fine dusty blue grid lines. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "基础元素",
+      "reference": "style/basic-gingham.png"
+    },
+    {
+      "id": "basic-rose-gingham",
+      "name": "玫瑰格纹",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one torn rectangular cream and dusty rose gingham paper scrap. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "基础元素",
+      "reference": "style/basic-gingham.png"
+    },
+    {
+      "id": "basic-ochre-check",
+      "name": "暖黄棋盘格",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one square ochre and ivory large checkerboard paper scrap. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "基础元素",
+      "reference": "style/basic-gingham.png"
+    },
+    {
+      "id": "basic-sage-stripes",
+      "name": "绿条纹纸片",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one torn paper strip printed with sage and cream vertical stripes. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "基础元素",
+      "reference": "style/basic-gingham.png"
+    },
+    {
+      "id": "basic-rose-stripes",
+      "name": "粉条纹纸片",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one torn rectangular paper scrap printed with blush diagonal stripes. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "基础元素",
+      "reference": "style/basic-gingham.png"
+    },
+    {
+      "id": "basic-blue-wave",
+      "name": "蓝色波浪",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one short paper strip with three hand-painted dusty blue wavy parallel lines. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "基础元素",
+      "reference": "style/basic-gingham.png"
+    },
+    {
+      "id": "basic-tiny-stars",
+      "name": "星星纸片",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one torn ivory paper rectangle scattered with tiny muted ochre stars. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "基础元素",
+      "reference": "style/basic-gingham.png"
+    },
+    {
+      "id": "basic-little-hearts",
+      "name": "爱心纸片",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one cream paper patch scattered with tiny terracotta hearts. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "基础元素",
+      "reference": "style/basic-gingham.png"
+    },
+    {
+      "id": "basic-petal-print",
+      "name": "碎花纸片",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one torn pale cream paper square with a small-scale sage and blush floral print. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "基础元素",
+      "reference": "style/basic-gingham.png"
+    },
+    {
+      "id": "basic-lace-circle",
+      "name": "圆形蕾丝",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one round ivory paper doily with scalloped lace cutouts and a blank center, true transparent holes. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "基础元素",
+      "reference": "style/basic-gingham.png"
+    },
+    {
+      "id": "basic-lace-corner",
+      "name": "蕾丝角花",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one triangular ivory paper lace corner ornament with delicate scalloped edge and transparent cutouts. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "基础元素",
+      "reference": "style/basic-gingham.png"
+    },
+    {
+      "id": "basic-postage-frame",
+      "name": "邮票框",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one blank cream postage-stamp shaped label with a dusty sage inner border. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "基础元素",
+      "reference": "style/basic-gingham.png"
+    },
+    {
+      "id": "basic-ticket-frame",
+      "name": "票根框",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one blank horizontal vintage cream ticket label with ochre double border and side notches. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "基础元素",
+      "reference": "style/basic-gingham.png"
+    },
+    {
+      "id": "basic-oval-frame",
+      "name": "椭圆标签",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one blank ivory oval label with a thin dusty blue ornamental border. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "基础元素",
+      "reference": "style/basic-gingham.png"
+    },
+    {
+      "id": "basic-banner",
+      "name": "缎带横幅",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one blank blush pink folded ribbon banner with swallowtail ends. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "基础元素",
+      "reference": "style/basic-gingham.png"
+    },
+    {
+      "id": "basic-bow",
+      "name": "蝴蝶结",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one small hand-painted dusty rose ribbon bow. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "基础元素",
+      "reference": "style/basic-gingham.png"
+    },
+    {
+      "id": "basic-paper-tab",
+      "name": "索引标签",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one blank sage paper index tab with rounded top and subtle fold line. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "基础元素",
+      "reference": "style/basic-gingham.png"
+    },
+    {
+      "id": "basic-heart-seal",
+      "name": "爱心封签",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one terracotta heart-shaped textured paper seal. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "基础元素",
+      "reference": "style/basic-gingham.png"
+    },
+    {
+      "id": "basic-wreath",
+      "name": "枝叶圆框",
+      "prompt": "Use case: stylized-concept. Create ONE NEW individual digital scrapbook sticker depicting one delicate circular sage leafy wreath with a transparent empty center for handwriting. The attached image is STYLE REFERENCE ONLY, not the subject to copy. Match its delicate watercolor and gouache pigment, visible paper grain, soft muted colors, refined handmade stationery feeling and narrow warm ivory die-cut outline. One cohesive isolated sticker, front-facing where applicable, complete silhouette centered with 8% transparent safety margin on every side. Background genuinely transparent with clean alpha, including holes. No rectangle background unless the subject itself is a paper scrap. No shadow, glow, text, letters, watermark, mockup or multiple sticker sheet. Fine detail readable at small sticker size.",
+      "series": "基础元素",
+      "reference": "style/basic-gingham.png"
+    },
+    {
+      "id": "pets-ginger-cat",
+      "name": "橘猫团子",
+      "prompt": "Use case: stylized-concept. Create ONE adorable individual digital scrapbook animal sticker: a chubby ginger kitten curled up sleeping, round cheeks, tiny paws. The attached image is STYLE REFERENCE ONLY for watercolor paper texture, gentle muted colors and warm ivory die-cut border; do not include fern leaves. Cute illustrated proportions: softly rounded body, slightly oversized head, friendly gentle eyes, delicate tiny nose, believable species-specific markings. Refined hand-painted watercolor and gouache on textured paper, charming stationery illustration, no 3D rendering or photorealism. One complete cohesive animal centered with 8% transparent safety margin, no cropping of ears paws or tail. True transparent background, narrow ivory outline, no background scene, shadow, glow, text, letters, watermark or sticker sheet. Anatomically coherent, exactly two eyes, correct number of limbs, no human hands or clothing.",
+      "series": "猫猫狗狗",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "pets-tabby-cat",
+      "name": "虎斑猫",
+      "prompt": "Use case: stylized-concept. Create ONE adorable individual digital scrapbook animal sticker: a round gray tabby kitten sitting with its tail wrapped around its paws. The attached image is STYLE REFERENCE ONLY for watercolor paper texture, gentle muted colors and warm ivory die-cut border; do not include fern leaves. Cute illustrated proportions: softly rounded body, slightly oversized head, friendly gentle eyes, delicate tiny nose, believable species-specific markings. Refined hand-painted watercolor and gouache on textured paper, charming stationery illustration, no 3D rendering or photorealism. One complete cohesive animal centered with 8% transparent safety margin, no cropping of ears paws or tail. True transparent background, narrow ivory outline, no background scene, shadow, glow, text, letters, watermark or sticker sheet. Anatomically coherent, exactly two eyes, correct number of limbs, no human hands or clothing.",
+      "series": "猫猫狗狗",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "pets-calico-cat",
+      "name": "三花猫",
+      "prompt": "Use case: stylized-concept. Create ONE adorable individual digital scrapbook animal sticker: a playful calico kitten lying on its back with four little paws curled inward. The attached image is STYLE REFERENCE ONLY for watercolor paper texture, gentle muted colors and warm ivory die-cut border; do not include fern leaves. Cute illustrated proportions: softly rounded body, slightly oversized head, friendly gentle eyes, delicate tiny nose, believable species-specific markings. Refined hand-painted watercolor and gouache on textured paper, charming stationery illustration, no 3D rendering or photorealism. One complete cohesive animal centered with 8% transparent safety margin, no cropping of ears paws or tail. True transparent background, narrow ivory outline, no background scene, shadow, glow, text, letters, watermark or sticker sheet. Anatomically coherent, exactly two eyes, correct number of limbs, no human hands or clothing.",
+      "series": "猫猫狗狗",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "pets-tuxedo-cat",
+      "name": "奶牛猫",
+      "prompt": "Use case: stylized-concept. Create ONE adorable individual digital scrapbook animal sticker: a black and white tuxedo kitten tilting its head, tiny pink nose and white mittens. The attached image is STYLE REFERENCE ONLY for watercolor paper texture, gentle muted colors and warm ivory die-cut border; do not include fern leaves. Cute illustrated proportions: softly rounded body, slightly oversized head, friendly gentle eyes, delicate tiny nose, believable species-specific markings. Refined hand-painted watercolor and gouache on textured paper, charming stationery illustration, no 3D rendering or photorealism. One complete cohesive animal centered with 8% transparent safety margin, no cropping of ears paws or tail. True transparent background, narrow ivory outline, no background scene, shadow, glow, text, letters, watermark or sticker sheet. Anatomically coherent, exactly two eyes, correct number of limbs, no human hands or clothing.",
+      "series": "猫猫狗狗",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "pets-ragdoll-cat",
+      "name": "布偶猫",
+      "prompt": "Use case: stylized-concept. Create ONE adorable individual digital scrapbook animal sticker: a fluffy cream ragdoll kitten with blue eyes and soft brown ears, sitting calmly. The attached image is STYLE REFERENCE ONLY for watercolor paper texture, gentle muted colors and warm ivory die-cut border; do not include fern leaves. Cute illustrated proportions: softly rounded body, slightly oversized head, friendly gentle eyes, delicate tiny nose, believable species-specific markings. Refined hand-painted watercolor and gouache on textured paper, charming stationery illustration, no 3D rendering or photorealism. One complete cohesive animal centered with 8% transparent safety margin, no cropping of ears paws or tail. True transparent background, narrow ivory outline, no background scene, shadow, glow, text, letters, watermark or sticker sheet. Anatomically coherent, exactly two eyes, correct number of limbs, no human hands or clothing.",
+      "series": "猫猫狗狗",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "pets-siamese-cat",
+      "name": "暹罗猫",
+      "prompt": "Use case: stylized-concept. Create ONE adorable individual digital scrapbook animal sticker: a cute cream Siamese kitten with dark ear tips and muzzle, gently stretching its front paws. The attached image is STYLE REFERENCE ONLY for watercolor paper texture, gentle muted colors and warm ivory die-cut border; do not include fern leaves. Cute illustrated proportions: softly rounded body, slightly oversized head, friendly gentle eyes, delicate tiny nose, believable species-specific markings. Refined hand-painted watercolor and gouache on textured paper, charming stationery illustration, no 3D rendering or photorealism. One complete cohesive animal centered with 8% transparent safety margin, no cropping of ears paws or tail. True transparent background, narrow ivory outline, no background scene, shadow, glow, text, letters, watermark or sticker sheet. Anatomically coherent, exactly two eyes, correct number of limbs, no human hands or clothing.",
+      "series": "猫猫狗狗",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "pets-corgi",
+      "name": "柯基",
+      "prompt": "Use case: stylized-concept. Create ONE adorable individual digital scrapbook animal sticker: a happy short-legged corgi puppy sitting, rounded ears, fluffy chest and tiny paws. The attached image is STYLE REFERENCE ONLY for watercolor paper texture, gentle muted colors and warm ivory die-cut border; do not include fern leaves. Cute illustrated proportions: softly rounded body, slightly oversized head, friendly gentle eyes, delicate tiny nose, believable species-specific markings. Refined hand-painted watercolor and gouache on textured paper, charming stationery illustration, no 3D rendering or photorealism. One complete cohesive animal centered with 8% transparent safety margin, no cropping of ears paws or tail. True transparent background, narrow ivory outline, no background scene, shadow, glow, text, letters, watermark or sticker sheet. Anatomically coherent, exactly two eyes, correct number of limbs, no human hands or clothing.",
+      "series": "猫猫狗狗",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "pets-golden-retriever",
+      "name": "金毛",
+      "prompt": "Use case: stylized-concept. Create ONE adorable individual digital scrapbook animal sticker: a golden retriever puppy lying down with chin resting on its front paws. The attached image is STYLE REFERENCE ONLY for watercolor paper texture, gentle muted colors and warm ivory die-cut border; do not include fern leaves. Cute illustrated proportions: softly rounded body, slightly oversized head, friendly gentle eyes, delicate tiny nose, believable species-specific markings. Refined hand-painted watercolor and gouache on textured paper, charming stationery illustration, no 3D rendering or photorealism. One complete cohesive animal centered with 8% transparent safety margin, no cropping of ears paws or tail. True transparent background, narrow ivory outline, no background scene, shadow, glow, text, letters, watermark or sticker sheet. Anatomically coherent, exactly two eyes, correct number of limbs, no human hands or clothing.",
+      "series": "猫猫狗狗",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "pets-shiba",
+      "name": "柴犬",
+      "prompt": "Use case: stylized-concept. Create ONE adorable individual digital scrapbook animal sticker: a plump Shiba Inu puppy with a curled tail and a smiling face, sitting in three-quarter view. The attached image is STYLE REFERENCE ONLY for watercolor paper texture, gentle muted colors and warm ivory die-cut border; do not include fern leaves. Cute illustrated proportions: softly rounded body, slightly oversized head, friendly gentle eyes, delicate tiny nose, believable species-specific markings. Refined hand-painted watercolor and gouache on textured paper, charming stationery illustration, no 3D rendering or photorealism. One complete cohesive animal centered with 8% transparent safety margin, no cropping of ears paws or tail. True transparent background, narrow ivory outline, no background scene, shadow, glow, text, letters, watermark or sticker sheet. Anatomically coherent, exactly two eyes, correct number of limbs, no human hands or clothing.",
+      "series": "猫猫狗狗",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "pets-poodle",
+      "name": "卷毛贵宾",
+      "prompt": "Use case: stylized-concept. Create ONE adorable individual digital scrapbook animal sticker: a tiny apricot poodle puppy with fluffy rounded ears and soft curly fur. The attached image is STYLE REFERENCE ONLY for watercolor paper texture, gentle muted colors and warm ivory die-cut border; do not include fern leaves. Cute illustrated proportions: softly rounded body, slightly oversized head, friendly gentle eyes, delicate tiny nose, believable species-specific markings. Refined hand-painted watercolor and gouache on textured paper, charming stationery illustration, no 3D rendering or photorealism. One complete cohesive animal centered with 8% transparent safety margin, no cropping of ears paws or tail. True transparent background, narrow ivory outline, no background scene, shadow, glow, text, letters, watermark or sticker sheet. Anatomically coherent, exactly two eyes, correct number of limbs, no human hands or clothing.",
+      "series": "猫猫狗狗",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "pets-dachshund",
+      "name": "腊肠犬",
+      "prompt": "Use case: stylized-concept. Create ONE adorable individual digital scrapbook animal sticker: a chocolate and tan dachshund puppy with long floppy ears and a short-legged long body. The attached image is STYLE REFERENCE ONLY for watercolor paper texture, gentle muted colors and warm ivory die-cut border; do not include fern leaves. Cute illustrated proportions: softly rounded body, slightly oversized head, friendly gentle eyes, delicate tiny nose, believable species-specific markings. Refined hand-painted watercolor and gouache on textured paper, charming stationery illustration, no 3D rendering or photorealism. One complete cohesive animal centered with 8% transparent safety margin, no cropping of ears paws or tail. True transparent background, narrow ivory outline, no background scene, shadow, glow, text, letters, watermark or sticker sheet. Anatomically coherent, exactly two eyes, correct number of limbs, no human hands or clothing.",
+      "series": "猫猫狗狗",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "pets-samoyed",
+      "name": "萨摩耶",
+      "prompt": "Use case: stylized-concept. Create ONE adorable individual digital scrapbook animal sticker: a fluffy white Samoyed puppy with a smiling face, pink tongue and round paws. The attached image is STYLE REFERENCE ONLY for watercolor paper texture, gentle muted colors and warm ivory die-cut border; do not include fern leaves. Cute illustrated proportions: softly rounded body, slightly oversized head, friendly gentle eyes, delicate tiny nose, believable species-specific markings. Refined hand-painted watercolor and gouache on textured paper, charming stationery illustration, no 3D rendering or photorealism. One complete cohesive animal centered with 8% transparent safety margin, no cropping of ears paws or tail. True transparent background, narrow ivory outline, no background scene, shadow, glow, text, letters, watermark or sticker sheet. Anatomically coherent, exactly two eyes, correct number of limbs, no human hands or clothing.",
+      "series": "猫猫狗狗",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "zoo-panda",
+      "name": "熊猫",
+      "prompt": "Use case: stylized-concept. Create ONE adorable individual digital scrapbook animal sticker: a round baby giant panda sitting and holding a small bamboo shoot. The attached image is STYLE REFERENCE ONLY for watercolor paper texture, gentle muted colors and warm ivory die-cut border; do not include fern leaves. Cute illustrated proportions: softly rounded body, slightly oversized head, friendly gentle eyes, delicate tiny nose, believable species-specific markings. Refined hand-painted watercolor and gouache on textured paper, charming stationery illustration, no 3D rendering or photorealism. One complete cohesive animal centered with 8% transparent safety margin, no cropping of ears paws or tail. True transparent background, narrow ivory outline, no background scene, shadow, glow, text, letters, watermark or sticker sheet. Anatomically coherent, exactly two eyes, correct number of limbs, no human hands or clothing.",
+      "series": "动物园",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "zoo-red-panda",
+      "name": "小熊猫",
+      "prompt": "Use case: stylized-concept. Create ONE adorable individual digital scrapbook animal sticker: a fluffy red panda sitting with its striped tail wrapped around its body. The attached image is STYLE REFERENCE ONLY for watercolor paper texture, gentle muted colors and warm ivory die-cut border; do not include fern leaves. Cute illustrated proportions: softly rounded body, slightly oversized head, friendly gentle eyes, delicate tiny nose, believable species-specific markings. Refined hand-painted watercolor and gouache on textured paper, charming stationery illustration, no 3D rendering or photorealism. One complete cohesive animal centered with 8% transparent safety margin, no cropping of ears paws or tail. True transparent background, narrow ivory outline, no background scene, shadow, glow, text, letters, watermark or sticker sheet. Anatomically coherent, exactly two eyes, correct number of limbs, no human hands or clothing.",
+      "series": "动物园",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "zoo-koala",
+      "name": "考拉",
+      "prompt": "Use case: stylized-concept. Create ONE adorable individual digital scrapbook animal sticker: a plump baby koala hugging a short eucalyptus twig. The attached image is STYLE REFERENCE ONLY for watercolor paper texture, gentle muted colors and warm ivory die-cut border; do not include fern leaves. Cute illustrated proportions: softly rounded body, slightly oversized head, friendly gentle eyes, delicate tiny nose, believable species-specific markings. Refined hand-painted watercolor and gouache on textured paper, charming stationery illustration, no 3D rendering or photorealism. One complete cohesive animal centered with 8% transparent safety margin, no cropping of ears paws or tail. True transparent background, narrow ivory outline, no background scene, shadow, glow, text, letters, watermark or sticker sheet. Anatomically coherent, exactly two eyes, correct number of limbs, no human hands or clothing.",
+      "series": "动物园",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "zoo-elephant",
+      "name": "小象",
+      "prompt": "Use case: stylized-concept. Create ONE adorable individual digital scrapbook animal sticker: a round baby elephant with large soft ears, tiny feet and a gently raised trunk. The attached image is STYLE REFERENCE ONLY for watercolor paper texture, gentle muted colors and warm ivory die-cut border; do not include fern leaves. Cute illustrated proportions: softly rounded body, slightly oversized head, friendly gentle eyes, delicate tiny nose, believable species-specific markings. Refined hand-painted watercolor and gouache on textured paper, charming stationery illustration, no 3D rendering or photorealism. One complete cohesive animal centered with 8% transparent safety margin, no cropping of ears paws or tail. True transparent background, narrow ivory outline, no background scene, shadow, glow, text, letters, watermark or sticker sheet. Anatomically coherent, exactly two eyes, correct number of limbs, no human hands or clothing.",
+      "series": "动物园",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "zoo-giraffe",
+      "name": "长颈鹿",
+      "prompt": "Use case: stylized-concept. Create ONE adorable individual digital scrapbook animal sticker: a cute baby giraffe with a short rounded muzzle, small horns and warm ochre patches, full body. The attached image is STYLE REFERENCE ONLY for watercolor paper texture, gentle muted colors and warm ivory die-cut border; do not include fern leaves. Cute illustrated proportions: softly rounded body, slightly oversized head, friendly gentle eyes, delicate tiny nose, believable species-specific markings. Refined hand-painted watercolor and gouache on textured paper, charming stationery illustration, no 3D rendering or photorealism. One complete cohesive animal centered with 8% transparent safety margin, no cropping of ears paws or tail. True transparent background, narrow ivory outline, no background scene, shadow, glow, text, letters, watermark or sticker sheet. Anatomically coherent, exactly two eyes, correct number of limbs, no human hands or clothing.",
+      "series": "动物园",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "zoo-lion",
+      "name": "小狮子",
+      "prompt": "Use case: stylized-concept. Create ONE adorable individual digital scrapbook animal sticker: a smiling lion cub with a small fluffy caramel mane, round paws and a curved tail. The attached image is STYLE REFERENCE ONLY for watercolor paper texture, gentle muted colors and warm ivory die-cut border; do not include fern leaves. Cute illustrated proportions: softly rounded body, slightly oversized head, friendly gentle eyes, delicate tiny nose, believable species-specific markings. Refined hand-painted watercolor and gouache on textured paper, charming stationery illustration, no 3D rendering or photorealism. One complete cohesive animal centered with 8% transparent safety margin, no cropping of ears paws or tail. True transparent background, narrow ivory outline, no background scene, shadow, glow, text, letters, watermark or sticker sheet. Anatomically coherent, exactly two eyes, correct number of limbs, no human hands or clothing.",
+      "series": "动物园",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "zoo-tiger",
+      "name": "小老虎",
+      "prompt": "Use case: stylized-concept. Create ONE adorable individual digital scrapbook animal sticker: a chubby tiger cub with warm orange fur, soft brown stripes and tiny rounded ears. The attached image is STYLE REFERENCE ONLY for watercolor paper texture, gentle muted colors and warm ivory die-cut border; do not include fern leaves. Cute illustrated proportions: softly rounded body, slightly oversized head, friendly gentle eyes, delicate tiny nose, believable species-specific markings. Refined hand-painted watercolor and gouache on textured paper, charming stationery illustration, no 3D rendering or photorealism. One complete cohesive animal centered with 8% transparent safety margin, no cropping of ears paws or tail. True transparent background, narrow ivory outline, no background scene, shadow, glow, text, letters, watermark or sticker sheet. Anatomically coherent, exactly two eyes, correct number of limbs, no human hands or clothing.",
+      "series": "动物园",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "zoo-zebra",
+      "name": "斑马",
+      "prompt": "Use case: stylized-concept. Create ONE adorable individual digital scrapbook animal sticker: a baby zebra with soft charcoal stripes, short rounded muzzle and tiny hooves, full body. The attached image is STYLE REFERENCE ONLY for watercolor paper texture, gentle muted colors and warm ivory die-cut border; do not include fern leaves. Cute illustrated proportions: softly rounded body, slightly oversized head, friendly gentle eyes, delicate tiny nose, believable species-specific markings. Refined hand-painted watercolor and gouache on textured paper, charming stationery illustration, no 3D rendering or photorealism. One complete cohesive animal centered with 8% transparent safety margin, no cropping of ears paws or tail. True transparent background, narrow ivory outline, no background scene, shadow, glow, text, letters, watermark or sticker sheet. Anatomically coherent, exactly two eyes, correct number of limbs, no human hands or clothing.",
+      "series": "动物园",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "zoo-hippo",
+      "name": "河马",
+      "prompt": "Use case: stylized-concept. Create ONE adorable individual digital scrapbook animal sticker: a plump baby hippo with a big rounded muzzle, tiny ears and soft dusty mauve skin. The attached image is STYLE REFERENCE ONLY for watercolor paper texture, gentle muted colors and warm ivory die-cut border; do not include fern leaves. Cute illustrated proportions: softly rounded body, slightly oversized head, friendly gentle eyes, delicate tiny nose, believable species-specific markings. Refined hand-painted watercolor and gouache on textured paper, charming stationery illustration, no 3D rendering or photorealism. One complete cohesive animal centered with 8% transparent safety margin, no cropping of ears paws or tail. True transparent background, narrow ivory outline, no background scene, shadow, glow, text, letters, watermark or sticker sheet. Anatomically coherent, exactly two eyes, correct number of limbs, no human hands or clothing.",
+      "series": "动物园",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "zoo-penguin",
+      "name": "企鹅",
+      "prompt": "Use case: stylized-concept. Create ONE adorable individual digital scrapbook animal sticker: a fluffy penguin chick with a round gray body, small dark wings and tiny ochre feet. The attached image is STYLE REFERENCE ONLY for watercolor paper texture, gentle muted colors and warm ivory die-cut border; do not include fern leaves. Cute illustrated proportions: softly rounded body, slightly oversized head, friendly gentle eyes, delicate tiny nose, believable species-specific markings. Refined hand-painted watercolor and gouache on textured paper, charming stationery illustration, no 3D rendering or photorealism. One complete cohesive animal centered with 8% transparent safety margin, no cropping of ears paws or tail. True transparent background, narrow ivory outline, no background scene, shadow, glow, text, letters, watermark or sticker sheet. Anatomically coherent, exactly two eyes, correct number of limbs, no human hands or clothing.",
+      "series": "动物园",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "zoo-meerkat",
+      "name": "狐獴",
+      "prompt": "Use case: stylized-concept. Create ONE adorable individual digital scrapbook animal sticker: a cute baby meerkat standing upright with tiny paws folded on its belly. The attached image is STYLE REFERENCE ONLY for watercolor paper texture, gentle muted colors and warm ivory die-cut border; do not include fern leaves. Cute illustrated proportions: softly rounded body, slightly oversized head, friendly gentle eyes, delicate tiny nose, believable species-specific markings. Refined hand-painted watercolor and gouache on textured paper, charming stationery illustration, no 3D rendering or photorealism. One complete cohesive animal centered with 8% transparent safety margin, no cropping of ears paws or tail. True transparent background, narrow ivory outline, no background scene, shadow, glow, text, letters, watermark or sticker sheet. Anatomically coherent, exactly two eyes, correct number of limbs, no human hands or clothing.",
+      "series": "动物园",
+      "reference": "style/nature-fern.png"
+    },
+    {
+      "id": "zoo-otter",
+      "name": "水獭",
+      "prompt": "Use case: stylized-concept. Create ONE adorable individual digital scrapbook animal sticker: a round baby otter sitting and holding a small smooth pebble, soft brown fur and pale cheeks. The attached image is STYLE REFERENCE ONLY for watercolor paper texture, gentle muted colors and warm ivory die-cut border; do not include fern leaves. Cute illustrated proportions: softly rounded body, slightly oversized head, friendly gentle eyes, delicate tiny nose, believable species-specific markings. Refined hand-painted watercolor and gouache on textured paper, charming stationery illustration, no 3D rendering or photorealism. One complete cohesive animal centered with 8% transparent safety margin, no cropping of ears paws or tail. True transparent background, narrow ivory outline, no background scene, shadow, glow, text, letters, watermark or sticker sheet. Anatomically coherent, exactly two eyes, correct number of limbs, no human hands or clothing.",
+      "series": "动物园",
+      "reference": "style/nature-fern.png"
+    }
+  ]
+}
