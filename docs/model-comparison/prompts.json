@@ -1,0 +1,20 @@
+[
+  {
+    "id": "nature-fern",
+    "name": "蕨叶",
+    "prompt": "Use case: stylized-concept. Asset type: individual premium digital journal sticker. Subject: one delicate curved fern frond, sage green botanical watercolor. Soft hand-painted gouache and watercolor on textured paper, refined Japanese stationery aesthetic, gentle muted natural colors. ONE cohesive sticker centered and filling about 85% of frame with a narrow ivory die-cut border. True transparent background outside sticker, no background paper or scene, no cast shadow, no text, no watermark, no extra isolated objects. High quality raster artwork, clean silhouette.",
+    "series": "自然"
+  },
+  {
+    "id": "food-strawberry-cake",
+    "name": "草莓蛋糕",
+    "prompt": "Use case: stylized-concept. Asset type: individual premium digital journal sticker. Subject: one slice of strawberry shortcake, cream layers, pale pink filling, one strawberry on top. Soft hand-painted gouache and watercolor on textured paper, refined Japanese stationery aesthetic, gentle muted natural colors. ONE cohesive sticker centered and filling about 85% of frame with a narrow ivory die-cut border. True transparent background outside sticker, no background paper or scene, no cast shadow, no text, no watermark, no extra isolated objects. High quality raster artwork, clean silhouette.",
+    "series": "美食"
+  },
+  {
+    "id": "basic-gingham",
+    "name": "格纹纸片",
+    "prompt": "Use case: stylized-concept. Asset type: individual premium digital journal sticker. Subject: one torn rectangular pale sage gingham paper scrap, face-on flat, woven print texture. Soft hand-painted gouache and watercolor on textured paper, refined Japanese stationery aesthetic, gentle muted natural colors. ONE cohesive sticker centered and filling about 85% of frame with a narrow ivory die-cut border. True transparent background outside sticker, no background paper or scene, no cast shadow, no text, no watermark, no extra isolated objects. High quality raster artwork, clean silhouette.",
+    "series": "基础元素"
+  }
+]

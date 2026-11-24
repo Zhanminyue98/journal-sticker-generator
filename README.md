@@ -8,6 +8,19 @@
 
 *上图为参考同一画风新生成的宣传展示图，并非 99 张原始素材的逐张拼接。*
 
+<!-- model-comparison:start -->
+## 同 Prompt · 五组模型对比
+
+复用已有 ImageGen 的三条原始 Prompt，测试 Seedream 5.5、Gemini*（LibTV：General image Pro）、Qwen Image 3.0 和 Z-image Turbo，再与原有 ImageGen 素材并排展示。提供 **4 种候选排版**，保留实际背景与首张输出。
+
+![Model comparison layouts](docs/model-comparison/all-layouts.jpg)
+
+[查看四版大图、原图、参数与测试说明](docs/model-comparison/README.md)
+
+*Gemini 为项目所有者确认的名称；CLI 不独立验证上游身份。ImageGen 为既有样本，非本次重生成。此对比不是模型排行榜。
+
+<!-- model-comparison:end -->
+
 ## 包含什么
 
 - **99 条实际使用的提示词**：自然、美食、基础元素各 25 条，猫猫狗狗、动物园各 12 条。
@@ -74,6 +87,6 @@ skills/
 
 ## 适用范围
 
-这是一个提示词与工作流程 Skill，面向独立透明 PNG 贴纸，不是图像模型或完整贴纸素材包。无缝胶带纹理、UI 截图和矢量图标系统不在默认范围内。附带图片由 ImageGen 生成。
+这是一个提示词与工作流程 Skill，面向独立透明 PNG 贴纸，不是图像模型或完整贴纸素材包。无缝胶带纹理、UI 截图和矢量图标系统不在默认范围内。原始参考图和主图由 ImageGen 生成；新增对比样本的来源见模型对比说明。
 
 本项目提供四种语言的 README。Skill 工作规则和说明文档目前以中文为主，生成提示词为英文。

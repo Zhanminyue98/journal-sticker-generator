@@ -1,0 +1,309 @@
+{
+  "date": "2026-11-24",
+  "gemini_naming_note": "Gemini is the owner-supplied identity for LibTV General image Pro; the CLI exposes nebula-ultra and does not independently verify the upstream provider/version.",
+  "samples": [
+    {
+      "model": "imagegen",
+      "subject": "nature-fern",
+      "file": "assets/imagegen/nature-fern.png",
+      "width": 1214,
+      "height": 1295,
+      "transparent_percent": 99.98,
+      "fully_transparent_percent": 55.88,
+      "sha256": "b22241150b84a9fdc3f7731e9ed455215d080b9eafd9a81d2532c4b792414c45",
+      "display_name": "ImageGen",
+      "source": "Existing local ImageGen images; no new generation",
+      "model_key": null,
+      "settings": {
+        "transparent_background": true
+      },
+      "note": "Archived sample; output dimensions differ from new 2K square images. Exact original backend/version and seed are not recorded."
+    },
+    {
+      "model": "imagegen",
+      "subject": "food-strawberry-cake",
+      "file": "assets/imagegen/food-strawberry-cake.png",
+      "width": 1300,
+      "height": 1210,
+      "transparent_percent": 99.97,
+      "fully_transparent_percent": 36.5,
+      "sha256": "75107295d2aaf0f08e2273426765db7ce4131d80d2dd20ddc9c36e80f6b5f23b",
+      "display_name": "ImageGen",
+      "source": "Existing local ImageGen images; no new generation",
+      "model_key": null,
+      "settings": {
+        "transparent_background": true
+      },
+      "note": "Archived sample; output dimensions differ from new 2K square images. Exact original backend/version and seed are not recorded."
+    },
+    {
+      "model": "imagegen",
+      "subject": "basic-gingham",
+      "file": "assets/imagegen/basic-gingham.png",
+      "width": 1752,
+      "height": 897,
+      "transparent_percent": 100.0,
+      "fully_transparent_percent": 21.99,
+      "sha256": "d83157b1f8e160ff88dc532a0d2487b292be568c700edef5e629376b67a2f0ca",
+      "display_name": "ImageGen",
+      "source": "Existing local ImageGen images; no new generation",
+      "model_key": null,
+      "settings": {
+        "transparent_background": true
+      },
+      "note": "Archived sample; output dimensions differ from new 2K square images. Exact original backend/version and seed are not recorded."
+    },
+    {
+      "model": "seedream",
+      "subject": "nature-fern",
+      "file": "assets/seedream/nature-fern.png",
+      "width": 2048,
+      "height": 2048,
+      "transparent_percent": 66.85,
+      "fully_transparent_percent": 66.5,
+      "sha256": "335da053a658868cacaedb7ab8123a766ae9c1b3ea1c14d4574acd7c04e4b1f3",
+      "display_name": "Seedream 5.5",
+      "source": "LibTV CLI",
+      "model_key": "doubao-seedream-5-5",
+      "settings": {
+        "quality": "2K",
+        "ratio": "1:1",
+        "background": "transparent"
+      },
+      "advanced_settings": {},
+      "count": 1,
+      "elapsed_seconds": 25.2
+    },
+    {
+      "model": "seedream",
+      "subject": "food-strawberry-cake",
+      "file": "assets/seedream/food-strawberry-cake.png",
+      "width": 2048,
+      "height": 2048,
+      "transparent_percent": 50.76,
+      "fully_transparent_percent": 50.4,
+      "sha256": "aafcc70ae6eddb1f25de38cbc1ae38636b687b01b1ec8a9dd3dbcf95bd616072",
+      "display_name": "Seedream 5.5",
+      "source": "LibTV CLI",
+      "model_key": "doubao-seedream-5-5",
+      "settings": {
+        "quality": "2K",
+        "ratio": "1:1",
+        "background": "transparent"
+      },
+      "advanced_settings": {},
+      "count": 1,
+      "elapsed_seconds": 27.2
+    },
+    {
+      "model": "seedream",
+      "subject": "basic-gingham",
+      "file": "assets/seedream/basic-gingham.png",
+      "width": 2048,
+      "height": 2048,
+      "transparent_percent": 32.88,
+      "fully_transparent_percent": 32.43,
+      "sha256": "e51b0549d069899f405a74de2cb703fb7088860dac5dff1ac6973e6dbbc73377",
+      "display_name": "Seedream 5.5",
+      "source": "LibTV CLI",
+      "model_key": "doubao-seedream-5-5",
+      "settings": {
+        "quality": "2K",
+        "ratio": "1:1",
+        "background": "transparent"
+      },
+      "advanced_settings": {},
+      "count": 1,
+      "elapsed_seconds": 31.2
+    },
+    {
+      "model": "gemini",
+      "subject": "nature-fern",
+      "file": "assets/gemini/nature-fern.png",
+      "width": 2048,
+      "height": 2048,
+      "transparent_percent": 0.0,
+      "fully_transparent_percent": 0.0,
+      "sha256": "272167606c0f5cb3746e7fdea4b2c7ca96956a5f7e9bcf5417c92ca7286f27da",
+      "display_name": "Gemini",
+      "source": "LibTV CLI / General image Pro",
+      "model_key": "nebula-ultra",
+      "settings": {
+        "quality": "2K",
+        "ratio": "1:1"
+      },
+      "advanced_settings": {
+        "searchable": 0
+      },
+      "count": 1,
+      "elapsed_seconds": 35.7
+    },
+    {
+      "model": "gemini",
+      "subject": "food-strawberry-cake",
+      "file": "assets/gemini/food-strawberry-cake.png",
+      "width": 2048,
+      "height": 2048,
+      "transparent_percent": 0.0,
+      "fully_transparent_percent": 0.0,
+      "sha256": "7319ec179660e4a1741a7b76a2f52cee87ea98a55ec0735ed916e2ff3c159ee0",
+      "display_name": "Gemini",
+      "source": "LibTV CLI / General image Pro",
+      "model_key": "nebula-ultra",
+      "settings": {
+        "quality": "2K",
+        "ratio": "1:1"
+      },
+      "advanced_settings": {
+        "searchable": 0
+      },
+      "count": 1,
+      "elapsed_seconds": 35.6
+    },
+    {
+      "model": "gemini",
+      "subject": "basic-gingham",
+      "file": "assets/gemini/basic-gingham.png",
+      "width": 2048,
+      "height": 2048,
+      "transparent_percent": 0.0,
+      "fully_transparent_percent": 0.0,
+      "sha256": "845990f372c92f71a9b79191fde47d9fa0de9c5ea89e7a1840178c6aebd5b1ea",
+      "display_name": "Gemini",
+      "source": "LibTV CLI / General image Pro",
+      "model_key": "nebula-ultra",
+      "settings": {
+        "quality": "2K",
+        "ratio": "1:1"
+      },
+      "advanced_settings": {
+        "searchable": 0
+      },
+      "count": 1,
+      "elapsed_seconds": 39.9
+    },
+    {
+      "model": "qwen",
+      "subject": "nature-fern",
+      "file": "assets/qwen/nature-fern.png",
+      "width": 2048,
+      "height": 2048,
+      "transparent_percent": 0.0,
+      "fully_transparent_percent": 0.0,
+      "sha256": "9644e981de65e0f6cc35bd29020ed676aeb3327dc234c6c7ad376fe9c7c300f5",
+      "display_name": "Qwen Image 3.0",
+      "source": "LibTV CLI / Qwen image 3.0",
+      "model_key": "qwen-image-3",
+      "settings": {
+        "quality": "std",
+        "resolution": "2K",
+        "ratio": "1:1"
+      },
+      "advanced_settings": {},
+      "count": 1,
+      "elapsed_seconds": 67.9
+    },
+    {
+      "model": "qwen",
+      "subject": "food-strawberry-cake",
+      "file": "assets/qwen/food-strawberry-cake.png",
+      "width": 2048,
+      "height": 2048,
+      "transparent_percent": 0.0,
+      "fully_transparent_percent": 0.0,
+      "sha256": "fd42ac6c5a4f167812cf97881320064f21fda0f0660580277ae85e13c26a681c",
+      "display_name": "Qwen Image 3.0",
+      "source": "LibTV CLI / Qwen image 3.0",
+      "model_key": "qwen-image-3",
+      "settings": {
+        "quality": "std",
+        "resolution": "2K",
+        "ratio": "1:1"
+      },
+      "advanced_settings": {},
+      "count": 1,
+      "elapsed_seconds": 67.6
+    },
+    {
+      "model": "qwen",
+      "subject": "basic-gingham",
+      "file": "assets/qwen/basic-gingham.png",
+      "width": 2048,
+      "height": 2048,
+      "transparent_percent": 0.0,
+      "fully_transparent_percent": 0.0,
+      "sha256": "c0a35c89324956a3a52fb79bdc0d9feac2ce059b087153a1b9867d5ce631758e",
+      "display_name": "Qwen Image 3.0",
+      "source": "LibTV CLI / Qwen image 3.0",
+      "model_key": "qwen-image-3",
+      "settings": {
+        "quality": "std",
+        "resolution": "2K",
+        "ratio": "1:1"
+      },
+      "advanced_settings": {},
+      "count": 1,
+      "elapsed_seconds": 59.9
+    },
+    {
+      "model": "zimage",
+      "subject": "nature-fern",
+      "file": "assets/zimage/nature-fern.png",
+      "width": 1024,
+      "height": 1024,
+      "transparent_percent": 0.0,
+      "fully_transparent_percent": 0.0,
+      "sha256": "72e7180938d31f2708f3b2dec6e9b437173f414cb27398edfb57dc9ff329fad9",
+      "display_name": "Z-image Turbo",
+      "source": "LibTV CLI",
+      "model_key": "z-image",
+      "settings": {
+        "quality": "2K",
+        "ratio": "1:1"
+      },
+      "advanced_settings": {},
+      "count": 1,
+      "elapsed_seconds": 21.9
+    },
+    {
+      "model": "zimage",
+      "subject": "food-strawberry-cake",
+      "file": "assets/zimage/food-strawberry-cake.png",
+      "width": 1024,
+      "height": 1024,
+      "transparent_percent": 0.0,
+      "fully_transparent_percent": 0.0,
+      "sha256": "dc11c7fd5f8286d2ec32012351e7758cf33d170040f2343b2c4f7d545ecf6bbc",
+      "display_name": "Z-image Turbo",
+      "source": "LibTV CLI",
+      "model_key": "z-image",
+      "settings": {
+        "quality": "2K",
+        "ratio": "1:1"
+      },
+      "advanced_settings": {},
+      "count": 1,
+      "elapsed_seconds": 21.4
+    },
+    {
+      "model": "zimage",
+      "subject": "basic-gingham",
+      "file": "assets/zimage/basic-gingham.png",
+      "width": 1024,
+      "height": 1024,
+      "transparent_percent": 0.0,
+      "fully_transparent_percent": 0.0,
+      "sha256": "85850519a61ab88184d8bacde4909e514b6ea97752971942ebf9e98fc0ed1b91",
+      "display_name": "Z-image Turbo",
+      "source": "LibTV CLI",
+      "model_key": "z-image",
+      "settings": {
+        "quality": "2K",
+        "ratio": "1:1"
+      },
+      "advanced_settings": {},
+      "count": 1,
+      "elapsed_seconds": 23.6
+    }
+  ]
+}

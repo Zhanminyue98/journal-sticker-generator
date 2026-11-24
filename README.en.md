@@ -8,6 +8,19 @@ A Codex skill for generating cohesive watercolor journal stickers with ImageGen.
 
 *This promotional showcase was newly generated in the same style. It is not a collage of all 99 original output files.*
 
+<!-- model-comparison:start -->
+## Same prompts · Five image sources
+
+We reused three original ImageGen prompts with Seedream 5.5, Gemini* (LibTV: General image Pro), Qwen Image 3.0, and Z-image Turbo, then paired their first outputs with the archived ImageGen samples. Explore **4 layout candidates**, with original backgrounds preserved.
+
+![Model comparison layouts](docs/model-comparison/all-layouts.jpg)
+
+[View all four layouts, originals, settings, and methodology](docs/model-comparison/README.md)
+
+*Gemini is the owner-supplied name; the CLI does not independently verify the upstream identity. ImageGen samples are archived, not regenerated. This is a sample study, not a model ranking.
+
+<!-- model-comparison:end -->
+
 ## What’s included
 
 - **99 prompts used in practice**: 25 each for nature, food, and paper decorations; 12 each for cats and dogs, and zoo animals.
@@ -74,6 +87,6 @@ References and human selection matter too. Identical prompts do not guarantee pi
 
 ## Scope and languages
 
-This is a prompt-and-workflow skill, not an image model or a complete sticker asset pack. It targets standalone transparent PNG stickers. Seamless tape textures, UI screenshots, and vector icon systems are outside its default scope. Included images were generated with ImageGen.
+This is a prompt-and-workflow skill, not an image model or a complete sticker asset pack. It targets standalone transparent PNG stickers. Seamless tape textures, UI screenshots, and vector icon systems are outside its default scope. The original style references and hero were generated with ImageGen; sources of the new comparison samples are documented in the model study.
 
 READMEs are available in four languages. Skill instructions and supporting guides are currently mainly in Chinese; generation prompts are in English.
