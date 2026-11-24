@@ -1,8 +1,8 @@
 # Journal Sticker Skill · 同 Prompt 模型对比
 
-本页提供四种候选排版，均使用相同的 **15 张真实样本**。原项目主图保持不变，候选图供选版。
+已选定 **01 深绿矩阵版**作为项目默认对比图，使用 **15 张真实样本**。其余三个排版保留作为备选。
 
-![四版总览](all-layouts.jpg)
+![已选定：深绿矩阵对比图](01-forest-matrix.png)
 
 | 版本 | 风格 | 原图 |
 |---|---|---|
@@ -64,7 +64,7 @@
 - [来源、设置、尺寸、透明比例与 SHA-256](manifest.json)
 - [全部原始样本](assets/)
 
-## Layout previews
+## Archived layout variants
 
 ### 01 · Forest matrix
 ![Forest matrix](01-forest-matrix.png)

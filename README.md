@@ -11,11 +11,11 @@
 <!-- model-comparison:start -->
 ## 同 Prompt · 五组模型对比
 
-复用已有 ImageGen 的三条原始 Prompt，测试 Seedream 5.5、Gemini*（LibTV：General image Pro）、Qwen Image 3.0 和 Z-image Turbo，再与原有 ImageGen 素材并排展示。提供 **4 种候选排版**，保留实际背景与首张输出。
+复用已有 ImageGen 的三条原始 Prompt，测试 Seedream 5.5、Gemini*（LibTV：General image Pro）、Qwen Image 3.0 和 Z-image Turbo，再与原有 ImageGen 素材并排展示。采用 **深绿矩阵版**作为默认对比图，保留实际背景与首张输出。
 
-![Model comparison layouts](docs/model-comparison/all-layouts.jpg)
+![Model comparison — forest matrix](docs/model-comparison/01-forest-matrix.png)
 
-[查看四版大图、原图、参数与测试说明](docs/model-comparison/README.md)
+[查看对比大图、原图、参数与测试说明](docs/model-comparison/README.md)
 
 *Gemini 为项目所有者确认的名称；CLI 不独立验证上游身份。ImageGen 为既有样本，非本次重生成。此对比不是模型排行榜。
 

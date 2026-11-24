@@ -11,11 +11,11 @@ A Codex skill for generating cohesive watercolor journal stickers with ImageGen.
 <!-- model-comparison:start -->
 ## Same prompts · Five image sources
 
-We reused three original ImageGen prompts with Seedream 5.5, Gemini* (LibTV: General image Pro), Qwen Image 3.0, and Z-image Turbo, then paired their first outputs with the archived ImageGen samples. Explore **4 layout candidates**, with original backgrounds preserved.
+We reused three original ImageGen prompts with Seedream 5.5, Gemini* (LibTV: General image Pro), Qwen Image 3.0, and Z-image Turbo, then paired their first outputs with the archived ImageGen samples. The **forest matrix** is the selected comparison layout, with original backgrounds preserved.
 
-![Model comparison layouts](docs/model-comparison/all-layouts.jpg)
+![Model comparison — forest matrix](docs/model-comparison/01-forest-matrix.png)
 
-[View all four layouts, originals, settings, and methodology](docs/model-comparison/README.md)
+[View the comparison, originals, settings, and methodology](docs/model-comparison/README.md)
 
 *Gemini is the owner-supplied name; the CLI does not independently verify the upstream identity. ImageGen samples are archived, not regenerated. This is a sample study, not a model ranking.
 

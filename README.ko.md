@@ -11,11 +11,11 @@ ImageGen으로 일관된 수채화 스타일의 다이어리 스티커를 생성
 <!-- model-comparison:start -->
 ## 같은 프롬프트 · 다섯 가지 이미지 출처
 
-기존 ImageGen 이미지에 사용한 프롬프트 3개를 그대로 사용해 Seedream 5.5, Gemini*(LibTV: General image Pro), Qwen Image 3.0, Z-image Turbo를 테스트했습니다. 각 모델의 첫 결과와 기존 ImageGen 이미지를 비교하는 **레이아웃 후보 4종**이며, 원래 배경을 유지했습니다.
+기존 ImageGen 이미지에 사용한 프롬프트 3개를 그대로 사용해 Seedream 5.5, Gemini*(LibTV: General image Pro), Qwen Image 3.0, Z-image Turbo를 테스트했습니다. 각 모델의 첫 결과와 기존 ImageGen 이미지를 비교하는 **짙은 녹색 매트릭스 버전**을 선택했으며, 원래 배경을 유지했습니다.
 
-![Model comparison layouts](docs/model-comparison/all-layouts.jpg)
+![Model comparison — forest matrix](docs/model-comparison/01-forest-matrix.png)
 
-[레이아웃 4종, 원본, 설정 및 비교 조건 보기](docs/model-comparison/README.md)
+[비교 이미지, 원본, 설정 및 비교 조건 보기](docs/model-comparison/README.md)
 
 *Gemini는 프로젝트 소유자가 확인한 명칭이며, CLI가 실제 제공자를 독립적으로 검증하지는 않습니다. ImageGen은 새로 생성하지 않고 기존 이미지를 사용했습니다. 종합 모델 순위가 아닌 샘플 비교입니다.
 

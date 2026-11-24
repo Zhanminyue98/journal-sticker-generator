@@ -11,11 +11,11 @@ ImageGen で、統一感のある水彩風の手帳用ステッカーを生成�
 <!-- model-comparison:start -->
 ## 同じプロンプト · 5 種類の画像ソース
 
-既存の ImageGen 画像に使った 3 件のプロンプトをそのまま使い、Seedream 5.5、Gemini*（LibTV：General image Pro）、Qwen Image 3.0、Z-image Turbo で生成しました。各モデルの最初の出力を既存の ImageGen 素材と並べた **4 種類のレイアウト案**です。元の背景を保持しています。
+既存の ImageGen 画像に使った 3 件のプロンプトをそのまま使い、Seedream 5.5、Gemini*（LibTV：General image Pro）、Qwen Image 3.0、Z-image Turbo で生成しました。各モデルの最初の出力を既存の ImageGen 素材と並べた **深緑のマトリクス版**を採用しました。元の背景を保持しています。
 
-![Model comparison layouts](docs/model-comparison/all-layouts.jpg)
+![Model comparison — forest matrix](docs/model-comparison/01-forest-matrix.png)
 
-[4 案の拡大画像・元画像・設定・比較条件を見る](docs/model-comparison/README.md)
+[比較画像・元画像・設定・比較条件を見る](docs/model-comparison/README.md)
 
 *Gemini はプロジェクト所有者が指定した名称です。CLI は上流モデルの名称を独立して確認できません。ImageGen は再生成せず既存画像を使用しています。モデルの総合順位を示すものではありません。
 
